@@ -1,5 +1,5 @@
 describe "something" do
   it "does something" do
-    true.should eq(true)
+    true.should eq(false)
   end
 end
